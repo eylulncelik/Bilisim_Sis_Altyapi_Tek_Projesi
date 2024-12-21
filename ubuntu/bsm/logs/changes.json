@@ -1,0 +1,7 @@
+{"action": "Created", "file": "/home/ubuntu/bsm/test/test_file.txt", "timestamp": "2024-12-21 16:04:41"}
+{"action": "Modified", "file": "/home/ubuntu/bsm/test/test_file.txt", "timestamp": "2024-12-21 16:04:41"}
+{"action": "Deleted", "file": "/home/ubuntu/bsm/test/test_file.txt", "timestamp": "2024-12-21 16:06:25"}
+{"action": "Created", "file": "/home/ubuntu/bsm/test/test_file.txt", "timestamp": "2024-12-21 16:07:02"}
+{"action": "Modified", "file": "/home/ubuntu/bsm/test/test_file.txt", "timestamp": "2024-12-21 16:07:02"}
+{"action": "Modified", "file": "/home/ubuntu/bsm/test/test_file.txt", "timestamp": "2024-12-21 16:08:08"}
+{"action": "Deleted", "file": "/home/ubuntu/bsm/test/test_file.txt", "timestamp": "2024-12-21 16:08:24"}
